@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 profile:
   align: right
-  image: home.jpg
+  image: home.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>18 Nov.2021</p>
