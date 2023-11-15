@@ -6,6 +6,20 @@
     "email": "worldhsy@gmail.com",
     "url": "https://worldhsy.github.io",
     "summary": "Hope to become an astronomer PhD",
+     "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
   "work": [],
   "volunteer": [],
