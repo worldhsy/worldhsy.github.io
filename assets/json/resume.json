@@ -2,11 +2,11 @@
   "basics": {
     "name": "Se Yeon Hwang",
     "label": "PhD Student (not yet)",
-    "image": "cv_photo",
+    "image": "cv_photo.jpg",
     "email": "worldhsy@gmail.com",
     "url": "https://worldhsy.github.io",
     "summary": "Hope to become an astronomer PhD",
-     "location": {
+    "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
