@@ -2,24 +2,16 @@
 layout: page
 permalink: /master/
 title: Master
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
+description: I want to share some cherished memories from my time in the master's program at University of Seoul from 2021 to 2023.
 nav_order: 5
 ---
 
+I had such a great time in University of Seoul with amazing professors, advisors and friends.
+Here, I was able to create valuable stepping stones for the path I will walk in the future.
+I learned how to live as a person, a student, and a scholar here, and I believe that through future experiences, I can continue to learn and become more resilient.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I would like to express my gratitude to everyone I met here, especially for Prof.Inkyu Park, Prof.Donysu Park, Dr.Cristiano G. Sabiu, Sumi Kim, Hyenmo Koo, Ju Young and Jhee Hannah.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
