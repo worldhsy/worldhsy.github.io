@@ -8,8 +8,9 @@ nav: true
 ---
 
 I had such a great time in University of Seoul with amazing professors, advisors and friends.
+
 Here, I was able to create valuable stepping stones for the path I will walk in the future.
-I learned how to live as a person, a student, and a scholar here, and I believe that through future experiences, I can continue to learn and become more resilient.
+I learned how to live as a person, a student, and a scientist, and I believe that through future experiences, I can continue to learn and become more resilient.
 
 I would like to express my gratitude to everyone I met here, especially for Prof.Inkyu Park, Prof.Donysu Park, Dr.Cristiano G. Sabiu, Sumi Kim, Hyenmo Koo, Ju Young and Jhee Hannah.
 
@@ -38,14 +39,19 @@ I would like to express my gratitude to everyone I met here, especially for Prof
     </div>
 </div>
 
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+I began my academic journey at the Department of Physics, University of Seoul.
+This is my bachelor's graduation photo.
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/master/bscphoto.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/master/bscphoto1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
