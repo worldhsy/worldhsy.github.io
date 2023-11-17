@@ -4,6 +4,7 @@ permalink: /master/
 title: Master
 description: I want to share some cherished memories from my time in the master's program at University of Seoul from 2021 to 2023.
 nav_order: 5
+nav: true
 ---
 
 I had such a great time in University of Seoul with amazing professors, advisors and friends.
