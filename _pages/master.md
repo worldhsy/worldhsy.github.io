@@ -2,7 +2,7 @@
 layout: page
 permalink: /master/
 title: Master
-description: I want to share some cherished memories at University of Seoul from 2021 to 2023.
+description: I want to share my cherished memories at University of Seoul from 2021 to 2023.
 nav_order: 5
 nav: true
 ---
