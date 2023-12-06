@@ -42,7 +42,6 @@ I would like to express my gratitude to everyone I met here, especially for Prof
 
 
 I began my academic journey at the Department of Physics, University of Seoul.
-
 This is my bachelor's graduation photo.
 
 
